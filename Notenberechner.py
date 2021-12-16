@@ -1,3 +1,7 @@
+#Dieses Programm berechnet den Durchschnitt von einer beliebigen Anzahl Noten.
+
+
+######################################################################################
 Noten=[] #Eine Liste wird erstellt
 ##################################################################################
 
